@@ -10,6 +10,9 @@ public class testclass1 {
 		System.out.println("My name is purvaja");
 		System.out.println("My name is purvaja");
 		System.out.println("My name is purvaja");
+		System.out.println("My name is purvaja");
+		System.out.println("My name is purvaja");
+		
 	}
 
 }
